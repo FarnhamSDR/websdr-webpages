@@ -454,6 +454,9 @@ const markers = [
   { f: 70475, m: "fmn", t: "AM/FM" },
 
   { f: 70487.5, m: "fmn", t: "Digital modes" },
+  { f: 70500, m: "fm", t: "WB Digital modes >>" },
+  { f: 71500, m: "fm", t: "<< WB Digital modes" },
+  { f: 71512.5, m: "fmn", t: "Commercial PMR>>" },
 
 /* 6m */
   { f: 49970, m: "cw", t: "BRAMS Radar Meteor pings" },
